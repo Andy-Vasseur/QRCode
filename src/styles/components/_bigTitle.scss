@@ -1,0 +1,27 @@
+.bigTitle {
+    text-align: center;
+    color: $color-light;
+}
+
+.bigTitle h1 {
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+.bigTitle p {
+    margin-bottom: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bigTitle p:nth-child(3) {
+    width: 50%;
+    margin-top: -0.3em;
+    line-height: 2em;
+    border-bottom: solid #F6F6F6 2px;
+}
+
+.bigTitle p:nth-child(4) span {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+}
