@@ -13,7 +13,7 @@ const SocialLinks = () => {
                 {/* première column */}
                 <div class="column">
                     <a href="https://www.linkedin.com/in/andy-vasseur/" target="_blank" rel="noreferrer">
-                        <div class="card">
+                        <div class="card card-1">
                             <img src={ LinkedinImage } alt="Ma page Linkedin" />
                             <div>
                                 <h1>Linkedin</h1>
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     </a>
 
                     <a href="https://www.whire.me/@Andyy" target="_blank" rel="noreferrer">
-                        <div class="card">
+                        <div class="card card-2">
                             <img src={ WhireImage } alt="Ma page Whire" />
                             <div>
                                 <h1>Whire</h1>
@@ -33,7 +33,7 @@ const SocialLinks = () => {
                     </a>
 
                     <a href="https://github.com/Andy-Vasseur" target="_blank" rel="noreferrer">
-                        <div class="card">
+                        <div class="card card-3">
                             <img src={ GithubImage } alt="Ma page Github" />
                             <div>
                                 <h1>Github</h1>
@@ -46,7 +46,7 @@ const SocialLinks = () => {
                 {/* deuxième column */}
                 <div className="column">
                     <a href="mailto:andyvasseurpro@outlook.com" target="_blank" rel="noreferrer">
-                        <div class="card">
+                        <div class="card card-4">
                             <img src={ MailImage } alt="Mon mail professionnel afin de contacter" />
                             <div>
                                 <h1>Mail</h1>
@@ -56,7 +56,7 @@ const SocialLinks = () => {
                     </a>
 
                     <a href="tel:+33786781006" target="_blank" rel="noreferrer">
-                        <div class="card">
+                        <div class="card card-5">
                             <img src={ PhoneImage } alt="Mon numéro de téléphone afin de contacter" />
                             <div>
                                 <h1>Phone</h1>
