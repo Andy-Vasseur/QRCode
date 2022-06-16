@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/andy-vasseur-github.io/static/css/main.a08ee7a8.css",
-    "main.js": "/andy-vasseur-github.io/static/js/main.9529d67f.js",
-    "static/media/SpaceMono-Regular.ttf": "/andy-vasseur-github.io/static/media/SpaceMono-Regular.f6e015c36df6af8b01db.ttf",
-    "static/media/whire.png": "/andy-vasseur-github.io/static/media/whire.e71827d0dc30e8688d70.png",
-    "static/media/happyavatar.png": "/andy-vasseur-github.io/static/media/happyavatar.2c1b7f21be00ddeb856d.png",
-    "static/media/github.png": "/andy-vasseur-github.io/static/media/github.c437b97f23c0a9422fac.png",
-    "static/media/call.png": "/andy-vasseur-github.io/static/media/call.209f15021b8b31136892.png",
-    "static/media/mail.png": "/andy-vasseur-github.io/static/media/mail.c51ce2acaf6ed11aff71.png",
-    "static/media/linkedin.webp": "/andy-vasseur-github.io/static/media/linkedin.1509a49fd0d407f5df63.webp",
-    "index.html": "/andy-vasseur-github.io/index.html",
-    "main.a08ee7a8.css.map": "/andy-vasseur-github.io/static/css/main.a08ee7a8.css.map",
-    "main.9529d67f.js.map": "/andy-vasseur-github.io/static/js/main.9529d67f.js.map"
+    "main.css": "/QRCode/static/css/main.6e391b67.css",
+    "main.js": "/QRCode/static/js/main.b9dd6ddd.js",
+    "static/media/SpaceMono-Regular.ttf": "/QRCode/static/media/SpaceMono-Regular.f6e015c36df6af8b01db.ttf",
+    "static/media/whire.png": "/QRCode/static/media/whire.e71827d0dc30e8688d70.png",
+    "static/media/happyavatar.png": "/QRCode/static/media/happyavatar.2c1b7f21be00ddeb856d.png",
+    "static/media/github.png": "/QRCode/static/media/github.c437b97f23c0a9422fac.png",
+    "static/media/call.png": "/QRCode/static/media/call.209f15021b8b31136892.png",
+    "static/media/mail.png": "/QRCode/static/media/mail.c51ce2acaf6ed11aff71.png",
+    "static/media/linkedin.webp": "/QRCode/static/media/linkedin.1509a49fd0d407f5df63.webp",
+    "index.html": "/QRCode/index.html",
+    "main.6e391b67.css.map": "/QRCode/static/css/main.6e391b67.css.map",
+    "main.b9dd6ddd.js.map": "/QRCode/static/js/main.b9dd6ddd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a08ee7a8.css",
-    "static/js/main.9529d67f.js"
+    "static/css/main.6e391b67.css",
+    "static/js/main.b9dd6ddd.js"
   ]
 }
