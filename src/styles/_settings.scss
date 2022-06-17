@@ -8,3 +8,47 @@ $font-1: "font-1";
 // COLORS
 $color-light: #F6F6F6;
 $color-dark: #121212;
+
+// RESPONSIVE BREAKPOINTS
+
+// TABLETS
+@media(min-height: 320px) and (max-width: 767px) {
+    .column {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 80%;
+        padding: 0 10px;
+    }
+    .column a {
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+        width: 80%;
+        height: 12em;
+    }
+    .bigTitle h1 {
+        margin-bottom: -0.5em;
+        font-size: 1.7rem;
+    }
+    .bigTitle p {
+        margin-top: 1em;
+        font-size: 0.9rem;
+    }
+}
+
+// SMARTPHONES
+@media(max-width: 425px) {
+    .bigTitle p:last-child {
+        width: 90%;
+    }
+}
+
+// LAPTOPS
+@media(min-height: 768px) and (max-width: 1388px) {
+    
+}
+
+// DESKTOPS
+@media(min-height: 1388px) {
+
+}
