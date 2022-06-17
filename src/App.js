@@ -1,6 +1,7 @@
 import React from 'react';
 import AvatarImage from './components/AvatarImage';
 import BigTitle from './components/BigTitle';
+import Copyright from './components/Copyright';
 import SocialLinks from './components/SocialLinks';
 
 const App = () => {
@@ -9,6 +10,7 @@ const App = () => {
       <AvatarImage />
       <BigTitle />
       <SocialLinks />
+      <Copyright />
     </div>
   );
 };
