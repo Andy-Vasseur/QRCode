@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/QRCode/static/css/main.c3f07953.css",
-    "main.js": "/QRCode/static/js/main.5d37a694.js",
+    "main.css": "/QRCode/static/css/main.832f245a.css",
+    "main.js": "/QRCode/static/js/main.e282299e.js",
     "static/media/SpaceMono-Regular.ttf": "/QRCode/static/media/SpaceMono-Regular.f6e015c36df6af8b01db.ttf",
     "static/media/whire.png": "/QRCode/static/media/whire.e71827d0dc30e8688d70.png",
     "static/media/happyavatar.png": "/QRCode/static/media/happyavatar.2c1b7f21be00ddeb856d.png",
@@ -10,11 +10,11 @@
     "static/media/mail.png": "/QRCode/static/media/mail.c51ce2acaf6ed11aff71.png",
     "static/media/linkedin.webp": "/QRCode/static/media/linkedin.1509a49fd0d407f5df63.webp",
     "index.html": "/QRCode/index.html",
-    "main.c3f07953.css.map": "/QRCode/static/css/main.c3f07953.css.map",
-    "main.5d37a694.js.map": "/QRCode/static/js/main.5d37a694.js.map"
+    "main.832f245a.css.map": "/QRCode/static/css/main.832f245a.css.map",
+    "main.e282299e.js.map": "/QRCode/static/js/main.e282299e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3f07953.css",
-    "static/js/main.5d37a694.js"
+    "static/css/main.832f245a.css",
+    "static/js/main.e282299e.js"
   ]
 }
