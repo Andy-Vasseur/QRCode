@@ -10,7 +10,6 @@ $color-light: #F6F6F6;
 $color-dark: #121212;
 
 // RESPONSIVE BREAKPOINTS
-
 // TABLETS
 @media(min-height: 320px) and (max-width: 767px) {
     .column {
@@ -41,6 +40,15 @@ $color-dark: #121212;
     .bigTitle p:last-child {
         width: 90%;
     }
+    .column {
+        width: 100%;
+    }
+    .card-1 {
+        margin-top: -0.27em;
+    }
+    .card-4 {
+        margin-top: -0.40em;
+    }
 }
 
 // LAPTOPS
@@ -49,12 +57,43 @@ $color-dark: #121212;
         margin-bottom: 1em;
     }
     .column {
-        display: flex;
-        align-items: center;
+        justify-content: center;
+    }
+    .column a {
+        margin-left: 1em;
+        margin-right: 1em;
+        width: 40%;
+        transition: transform .2s;
+    }
+    .column a:hover {
+        transform: scale(1.1);
+    }
+    .column a:nth-child(3) {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+    .copyright {
+        margin-top: 1em;
     }
 }
 
 // DESKTOPS
-@media(min-height: 1388px) {
-
+@media(min-width: 1388px) {
+    .bigTitle {
+        margin-bottom: 1em;
+    }
+    .column {
+        justify-content: center;
+        width: 40%;
+    }
+    .column a {
+        margin-bottom: 1.5em;
+        margin-left: 1em;
+        margin-right: 1em;
+        width: 40%;
+        transition: transform .2s;
+    }
+    .column a:hover {
+        transform: scale(1.1);
+    }
 }
