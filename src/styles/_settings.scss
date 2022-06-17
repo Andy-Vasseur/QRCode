@@ -45,7 +45,16 @@ $color-dark: #121212;
 
 // LAPTOPS
 @media(min-height: 768px) and (max-width: 1388px) {
-    
+    .bigTitle {
+        margin-bottom: 1em;
+    }
+    .column {
+        display: flex;
+        align-items: center;
+    }
+    .column a {
+        width: 20%;
+    }
 }
 
 // DESKTOPS
